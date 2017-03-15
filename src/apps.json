@@ -6796,6 +6796,9 @@
 			"cats": [
 				27
 			],
+			"headers": {
+				"X-Powered-By": "Scala"
+			},
 			"icon": "Scala.png",
 			"website": "http://www.scala-lang.org"
 		},
